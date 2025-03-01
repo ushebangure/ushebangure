@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Golfer+in+Debug+Mode)](https://git.io/typing-svg)
 
-I’m a **Software Engineer**, overseeing multiple teams and working on cutting-edge logistics tracking, AI fraud detection and distributed systems. Passionate about **golfer-friendly tech, backend systems, and AI-driven fraud prevention**.
+I’m a **Software Engineer**, overseeing teams and working on cutting-edge logistics tracking, AI fraud detection and distributed systems. Passionate about **golfer-friendly tech, backend systems, and AI-driven fraud prevention**.
 
 ---
 
