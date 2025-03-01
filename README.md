@@ -9,6 +9,8 @@ I’m a **Software Engineer**, overseeing multiple teams and working on cutting-
 ### 🔧 Tech Stack:
 #### **Languages & Frameworks**
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=flat-square&logo=grpc&logoColor=white)
 
@@ -31,6 +33,7 @@ I’m a **Software Engineer**, overseeing multiple teams and working on cutting-
 - **Fraud Prevention Platform**: No-code rule engine for fraud detection.
 - **Logistics Optimization**: Real-time event-driven shipment tracking.
 - **Golf Tech Innovation**: Developing a smart device for golf green reading.
+- **Kubernetes Home Lab**: Building a homelab with k3s/kubeadm, secured and remotely accessible via Tailscale.
 
 ---
 ### 📬 Connect with Me:
